@@ -1,5 +1,11 @@
 # Part 2: Computer Vision Problem Formulation and CNN Prototype
 
+## Dataset Source
+The dataset used in this project is available at:
+https://drive.google.com/drive/folders/1akV6po4Nrgkc3yQrJkzA6cJlV-wBvUYs?usp=sharing
+
+Note: Dataset files are not included in this repository as per submission guidelines.
+
 ## Dataset
 Surface defect image dataset with 4 classes: dent, normal, scratch, stain
 Total images: 480 (120 per class) - perfectly balanced
